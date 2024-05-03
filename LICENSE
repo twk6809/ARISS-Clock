@@ -1,0 +1,15 @@
+| NAME: ARISS AOS/LOS ISS Pass Clock
+| BY: Ken McCaughey (N3FZX)
+| ON: 2023-08-20
+| VERSION: 1.01
+| STATUS: Final development version for V1.01.
+| SPDX-FileCopyrightText: 2022 Ken McCaughey
+| SPDX-License-Identifier: Creative Commons Attribution-ShareAlike 4.0
+
+PURPOSE:  
+  Provide a simple, readable, large clocks and timers to support ISS
+  passes in support of ARISS school contacts at ground station K6DUE.
+  Used to help keep track of the countdown to AOS.  
+
+DISCLAIMER:  
+  This free software is provided as is.  
