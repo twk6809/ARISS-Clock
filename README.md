@@ -11,6 +11,13 @@ in establishing contact or when there were severe signal drop outs.
 We have it up as a large window on one of the monitors so everyone 
 in the room can see it and have situational awareness.   
 
+QUICK START
+-----------
+To get started, click on the green `<> Code` button and choose `DOWNLOAD ZIP`.  
+All the needed files are in the `ARISS_Clock_V1.01` folder.   
+Read the README file for futher instructions.   
+To see what the clock looks like, see the `Screenshots` folder.  
+
 NAME  
 ----
     ARISS_Clock - Simple readable large clock to support ISS
