@@ -17,6 +17,9 @@ To get started, click on the green `<> Code` button and choose `DOWNLOAD ZIP`.
 All the needed files are in the `ARISS_Clock_V1.01` folder.   
 Read the README file for futher instructions.   
 To see what the clock looks like, see the `Screenshots` folder.  
+There is an `EXE` file for Windows.  
+Otherwise to run the Python script, you will need to have Python installed on your computer.  
+If you are Python savy, the script comments include instructions to generate an executable for your OS.  
 
 NAME  
 ----
@@ -161,7 +164,10 @@ FILES AND DIRECTORIES
     ARISS_Clock.py  
         Python script. Main program. Requires python 3.x to run.  
         Requires a number of Python libraries that may not be included
-        with Python by default. Use pip to install.  
+        with Python by default. 
+
+        The following libraries are needed:  
+        sys, os, platform, getopt, tkinter, time, datetime, and re  
 
     ARISS_Clock.exe (may not be included)  
         Windows executable version of main program.  
