@@ -17,13 +17,17 @@ QUICK START
 * To get started, click on the green `<> Code` button and choose `Download Zip`.  
 * All the needed files are in the `ARISS_Clock_V1.01` folder.   
 * Read the README file for futher instructions.   
-* Don't forget to install the the two font files (`.ttf`) if they are not on your system.  
-* There is an `.exe` file for Windows.  
-* Otherwise to run the Python script, you will need to have `Python 3.x` installed on your computer.  
-* If you are Python savy, the script comments include instructions to generate an executable for your OS.
-* This will run on a Raspberry Pi 3B+ and newer.
+* Don't forget to install the the two font files (`.ttf`) if they are not on your system.
 * Edit the `ARISS_Clock_config.txt` file with your local AOS and LOS times.
-* You can make some limited changes to the look with *commandline options*. See details in the README.
+* There is an `.exe` file for Windows.  
+* Otherwise to run the Python script, you will need to have `Python 3.x`
+  installed on your computer.
+  You may need to install some addtional libraries.  
+* If you are Python savy, the script comments include instructions
+  to generate an executable for your OS.
+* This will run on a Raspberry Pi 3B+ and newer.
+* You can make some limited changes to the look with *commandline options*.
+  See details in the README.  
 * The window can be resized. See details in the README.
 
 NAME  
