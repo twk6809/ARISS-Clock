@@ -23,7 +23,7 @@ QUICK START
 * If you are Python savy, the script comments include instructions to generate an executable for your OS.
 * This will run on a Raspberry Pi 3B+ and newer.
 * Edit the `ARISS_Clock_config.txt` file with your local AOS and LOS times.
-* You can make some limited changes to the look with commandline switches. See details in the README.
+* You can make some limited changes to the look with *commandline options*. See details in the README.
 * The window can be resized. See details in the README.
 
 NAME  
