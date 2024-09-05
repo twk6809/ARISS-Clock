@@ -216,7 +216,8 @@ FILES AND DIRECTORIES
 
 AUTHOR  
 ------
-    By Ken McCaughey (N3FZX) for the K6DUE ARISS ground station.  
+    By Ken McCaughey (N3FZX) for the K6DUE ARISS ground station.
+    Copyright 2024.
 
 INTERNET RESOURCES  
 ------------------
