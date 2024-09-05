@@ -93,24 +93,24 @@ COMMAND LINE OPTIONS
 
 EXAMPLES  
 --------
-    `python ARISS_Clock.py` or `python3 ARISS_Clock.py`  
+    python ARISS_Clock.py or python3 ARISS_Clock.py  
         Run the script from python using look and feel defaults.  
 
-    `python ARISS_Clock.py -l`  
+    python ARISS_Clock.py -l  
         Run the script from python with labels not displayed.  
 
-    `python ARISS_Clock.py -T`  
+    python ARISS_Clock.py -T  
         Run the script from python with the clocks to the bottom of
         the display.  
 
-    `python ARISS_Clock.py --BW`  
+    python ARISS_Clock.py --BW  
         Run the script from python with black & white timers, no colors.  
 
-    `python ARISS_Clock.py -l -t -b`  
+    python ARISS_Clock.py -l -t -b  
         Run the script from python with all command line options. Order
         does not matter. Can be upper and lower case. See above.  
 
-    `ARISS_Clock -l -t -b`  
+    ARISS_Clock -l -t -b  
         Run the executable with all command line options. The executable
         can use all the command line options that same way as the python
         script.  
@@ -173,7 +173,7 @@ FILES AND DIRECTORIES
 ---------------------
     All the files should be in the same folder.  
 
-    `ARISS_Clock.py`  
+    ARISS_Clock.py  
         Python script. Main program. Requires python 3.x to run.  
         Requires a number of Python libraries that may not be included
         with Python by default. 
@@ -181,10 +181,10 @@ FILES AND DIRECTORIES
         The following libraries are needed:  
         sys, os, platform, getopt, tkinter, time, datetime, and re  
 
-    `ARISS_Clock.exe` (may not be included)  
+    ARISS_Clock.exe (may not be included)  
         Windows executable version of main program.  
 
-    `ARISS_Clock_config.txt`    
+    ARISS_Clock_config.txt    
         The AOS and LOS times and school time zone are set in the
         configuration file. Instructions are included in the file. At
         startup the configuration file is read. If the config file is
@@ -199,18 +199,18 @@ FILES AND DIRECTORIES
         If the configuration file gets corrupted, just delete it, and
         restart the ARISS Clock. A new file will be created.
 
-    `ARISS_Clock_readme.txt`   
+    ARISS_Clock_readme.txt   
         This help file. The file is generated every time the program is
         started up.  
 
-    `ARISS_logo.png`  
+    ARISS_logo.png`  
         ARISS logo image used by the python script. Must be present if
         running the .py file. Built into the executable.  
 
-    `ARISS_logo_simple.ico`   
+    ARISS_logo_simple.ico   
         ARISS logo icon image. Used by Windows.  
 
-    `ARISS_Clock.spec` (may not be included)  
+    ARISS_Clock.spec (may not be included)  
         File with preset parameters to create an executable version
         using "pyinstaller". Syntax is "pyinstaller ARISS_Clock.spec'.   
 
