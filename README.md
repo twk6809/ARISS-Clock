@@ -14,8 +14,8 @@ in the room can see it and have situational awareness.
 QUICK START
 -----------
 * To see what the clock looks like, see the `Screenshots` folder.
-* To get started, click on the green `<> Code` button and choose `Download Zip`.  
-* All the needed files are in the `ARISS_Clock_V1.01` folder.   
+* To get started, click on the green `<> Code` button and choose `Download ZIP`.  
+* All the needed files are in the `ARISS_Clock_V1.10` folder.   
 * Read the `README` file for further instructions.   
 * **Don't forget to install the the two font files (`.ttf`) if they are not on your system.**
   This makes sure the numbers are properly aligned in columns. See sample image below.
