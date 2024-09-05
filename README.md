@@ -214,6 +214,40 @@ FILES AND DIRECTORIES
         File with preset parameters to create an executable version
         using "pyinstaller". Syntax is "pyinstaller ARISS_Clock.spec'.   
 
+MAKING AN EXECUTABLE
+--------------------
+This package includes the Python scripts and a Windows executable.  
+To run this under different operating systems, there are two choices:  
+1) Install Python and run from the Python environment
+2) Generate an exectable under your OS
+
+It is possible to create executables for your OS with the steps  
+listed below. This is not for the begginer. It has worked for Linux,  
+Raspberry Pi, and Windows10. It should work for the MacOS, I just don't  
+have one to test with. Note that outside of Windows, binary  
+executables are often not portable (i.e. a Linux binary will not run  
+on a Raspberry Pi).
+   
+The process requires a Python 3.xx installation, `pyinstaller` script, and  
+all the required Python libraries imported by `ARISS_Clock.py`. It aslo  
+requires files `ARISS_logo_simple.png` and `ARISS_logo_simple.ico` files.
+
+On Linux/Rasberry Pi use command line:  
+  `pyinstaller --onefile -w -F -i "ARISS_logo_simple.ico" --add-data 'ARISS_logo.png:.' ARISS_Clock.py`
+  
+Windows 10 pyinstaller command line:   
+  `pyinstaller -w -F -i "ARISS_logo_simple.ico" --add-data ARISS_logo.png;. --add-data ARISS_logo_simple.ico;. ARISS_Clock.py`
+  
+If a `.spec` files exists, on the command line enter:  
+`pyinstaller ARISS_Clock.spec`
+
+The binary executable must reside in the folder with the other files   
+from the package.  
+
+Once an binary executable has been made, a shortcut can be created.  
+Note that in the shotcut you can specify the command line swithes as  
+desired. 
+
 AUTHOR  
 ------
     By Ken McCaughey (N3FZX) for the K6DUE ARISS ground station.
