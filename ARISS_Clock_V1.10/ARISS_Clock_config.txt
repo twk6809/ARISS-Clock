@@ -1,0 +1,33 @@
+# ARISS Clock Config File
+#
+# Used by ARISS_Clock Version 1.10
+#
+# Verify the above version number matches the ARISS Clock version.
+# If not, delete the config file and restart ARISS Clock.
+# A new config file will be generated with default values.
+#
+# This file must be in same folder as executable or main script.
+# This file must be named ARISS_Clock_config.txt.
+# All comment lines must begin with a '#' character.
+#
+# For the optional Local School Time (LST) clock, enter the
+# School Time Zone (STZ) with respect to UTC in this format only:.
+#   STZ,+HH (HH is hours offset from UTC preceded with +/-.)
+# For example:
+#   STZ,-5
+#   STZ,-2.5
+#
+# Predicted ISS AOS and LOS UTC dates and times in this format only:
+#   AOS,YYYY-MM-DD HH:mm:ss
+#   LOS,YYYY-MM-DD HH:mm:ss
+# For example:
+#   AOS,2022-02-08 01:23:45
+#   LOS,2022-02-08 12:34:56
+# Can stage multiple AOS/LOS pairs, but only one pair can be 
+#   uncommented at a time.
+#
+#-------------------------------------------------------------------
+#
+STZ,-5
+AOS,2024-09-04 18:40:00
+LOS,2024-09-04 18:42:00
