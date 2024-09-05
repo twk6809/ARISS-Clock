@@ -384,7 +384,7 @@ def make_readme_file():
                    '    AOS is checked to make sure it is before the LOS time. If not, an',
                    '    error message comes up. For setting the AOS and LOS times, the date',
                    '    matters. The AOS and LOS timers will not change unless the date and',
-                   '    time matches the UTC time clock. UTC is calculated based on the '
+                   '    time matches the UTC time clock. UTC is calculated based on the ',
                    '    system\'s time zone information read from the operating system.',
                    '',
                    'FONTS',
