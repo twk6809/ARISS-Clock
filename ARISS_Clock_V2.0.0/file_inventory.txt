@@ -1,0 +1,52 @@
+ARISS Clock - file inventory
+============================
+By: Ken McCaughey (N3FZX)  
+On: 2024-12-12   
+Ver 2.0.0   
+
+This file lists what all the files are for.
+
+----------------------------------------------------------------------------
+
+ARISS_Clock_config.txt - Configuration file to set the pass times.
+
+ARISS_Clock.exe - Windows executable of the clock.
+
+ARISS_Clock.py - The Python script for the clock.
+
+ARISS_Clock_readme.txt - Text manual for the clock.
+
+ARISS_logo.png - Logo used by the ARISS Clock Python script.
+
+ARISS_logo_simple.ico - Icon file needed for making a native binary.
+
+ARISS_logo_simple.png - Logo used by the ARISS Clock Python script.
+
+change_log.md - Details on the changes as versions are updated. This is in 
+    Markdown format. Can be read with any text editor.
+
+DejaVuSansMono-Bold.ttf - Font used by ARISS Clock. Needs to be installed
+	on your OS.
+	
+DejaVuSansMono.ttf -  - Font used by ARISS Clock. Needs to be installed
+	on your OS.
+
+file_inventory.txt - This file.
+
+HELPER.md - Additional helpful information in Markdown format.
+
+HELPER.pdf - Additional helpful information in PDF format.
+
+LICENSE - License information.
+
+README.md - Instructions on how to use the clock in Markdown format.
+
+README.pdf - Instructions on how to use the clock in PDF format.
+
+----------------------------------------------------------------------------
+
+Minimal list of files needed to run this (assuming fonts are installed):
+
+	ARISS_Clock.py (or the native binary)
+	ARISS_Clock_config.txt - Configuration file with pass times.
+
