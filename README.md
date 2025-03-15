@@ -48,6 +48,10 @@ QUICK START
 
 ![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_pre_rise_6m.png)
 
+More screenshots can be found here:
+
+![ARISS Clock Schreenshots.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_screenshots.md)
+
 <div style="page-break-after: always;"></div>
 
 NAME  
