@@ -96,21 +96,21 @@ config file with default values will be created.
 This error window will appear if the Rise time in the config file is after the
 Set time. The Rise/Set date/times in the config file will need to be corrected.
 
-![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_set_before_rise.png)
+![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_set_before_rise_time.png)
 
 ### RISE Time Error
 
 The following error window will appear if the format for the Rise time is 
 found in the config file. 
 
-![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_rise.png)
+![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_rise_time.png)
 
 ### Set Time Error
 
 The following error window will appear if the format for the Set time is 
 found in the config file. 
 
-![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_set.png)
+![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_set_time.png)
 
 
 Optional Looks
