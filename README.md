@@ -46,7 +46,7 @@ QUICK START
 
 ### ARISS Clock with correct `DejaVuSansMono` fonts.  
 
-![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_main_window_pre_AOS.png)
+![ARISS Clock with correct font.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_pre_rise_6m.png.png)
 
 <div style="page-break-after: always;"></div>
 
