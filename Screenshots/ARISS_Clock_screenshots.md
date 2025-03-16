@@ -18,7 +18,7 @@ Normal Startup
 The following are 
 ### Greeting and Predict Check
 
-![ARISS Clock Greeeting.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_greeting_predict_check.png)
+![ARISS Clock Greeting.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_greeting_predict_check.png)
 
 Clock Operation
 ---------------
@@ -26,7 +26,7 @@ Clock Operation
 The following screenshots are of the ARISS Clock running with the default 
 options.
 
-### Pre-Rise
+### Before Predicted Rise Time
 
 Prior to the predicted Rise time the Rise counter is active. The Set and 
 Elapsed time counters are gray and show underbars.
@@ -49,7 +49,7 @@ When Rise time is less than 1 minute the counter turns red.
 
 ![ARISS Clock Less Than 1m to Rise.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_pre_rise_1m.png)
 
-### Pre-Set
+### Before Predicted Set Time
 
 Prior to predicted Set time, the Rise time counter is gray at zero. The Set and 
 Elapsed time counters are active. The Set counter will change color. The 
@@ -101,7 +101,7 @@ config file with default values will be created.
 
 ![ARISS Clock Missing Config File Error.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_error_missing_config_file.png)
 
-### RISE Time Before Set Time
+### SET Time Before Rise Time
 
 This error window will appear if the Rise time in the config file is after the
 Set time. The Rise/Set date/times in the config file will need to be corrected.
