@@ -133,24 +133,24 @@ README) or resizing the window.
 
 These are all done with the `--BW` command line option. See the README.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_black_white.png)
+![ARISS Clock Black and White.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_black_white.png)
 
-The window has been reduced by grabbing the bottom of the window with a mouse and 
-reducing the window size.
+The window has been reduced to show only the three timers by grabbing the 
+bottom of the window with a mouse and reducing the window size.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_black_white_reduced.png)
+![ARISS Clock Set Black and White and Redused.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_black_white_reduced.png)
 
 
 ### Clocks On Top
 
 These are all done with the `--Top` command line option. See the README.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_clocks_on_top1.png)
+![ARISS Clock Clocks On Top.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_clocks_on_top1.png)
 
 This version adds the `--Event` command line option to turn off the event
 local time clock.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_clocks_on_top2.png)
+![ARISS Clock Clocks On Top Without Event Local Time.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_clocks_on_top2.png)
 
 
 ### Reduced Sizes
@@ -160,23 +160,23 @@ reducing the window size.
 
 Minimal size with only Rise timer. 
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size1.png)
+![ARISS Clock  Reduced Size With 1 Timer.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size1.png)
 
 Only Rise and Set timers. This also uses the `--Labels` command line option
 to turn off the labels.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size2.png)
+![ARISS Clock  Reduced Size With 2 Timers.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size2.png)
 
 Only Rise, Set, and Elapsed time timers.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size3.png)
+![ARISS Clock Reduced Size With 3 Timers.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size3.png)
 
 ### No Labels
 
 This also uses the `--Labels` command line option to remove the clock/timer 
 labels. See the README.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_no_labels.png)
+![ARISS Clock No Labels.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_no_labels.png)
 
 
 ### Help
