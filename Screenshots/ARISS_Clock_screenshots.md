@@ -162,9 +162,10 @@ Minimal size with only Rise timer.
 
 ![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size1.png)
 
-Only Rise and Set timers.
+Only Rise and Set timers. This also uses the `--Labels` command line option
+to turn off the labels.
 
-![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size3.png)
+![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size2.png)
 
 Only Rise, Set, and Elapsed time timers.
 
@@ -172,7 +173,27 @@ Only Rise, Set, and Elapsed time timers.
 
 ### No Labels
 
-This also uses the `--Label` command line option to remove the clock/timer 
+This also uses the `--Labels` command line option to remove the clock/timer 
 labels. See the README.
 
 ![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_no_labels.png)
+
+
+### Help
+
+From the command line, entering `python3 ARISS_Clock.py -h` prints the help
+for the command line options, then quits. 
+
+
+	ARISS Clock - Version 3.0.0
+	  Usage: ARISS_Clock [ -b ] [ -c ] [ -e ] [ -h ] [ -l ] [ -t ]
+	COMMAND LINE OPTIONS
+	  -b, -B, --BW      Rise/Set timers only in black and white.
+	  -c, -C, --Color   Do NOT show background colors.
+	  -e, -E, --Event   Do NOT show the event local time clock.
+	  -h, -H, --Help    Lists the command line options, then exits.
+	  -l, -L, --Labels  Do NOT show the display of timer and clock labels.
+	  -t, -T, --Top     Force clocks to the top of the timer display.
+	If any option is invalid, the program ignores them all.
+	See ARISS_Clock_readme.txt for more details.
+
