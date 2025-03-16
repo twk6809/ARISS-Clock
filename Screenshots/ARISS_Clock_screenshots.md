@@ -162,8 +162,7 @@ Minimal size with only Rise timer.
 
 ![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size1.png)
 
-Only Rise and Set timers. This also uses the `--Label` command line option
-to remove the clock/timer labels. See the README.
+Only Rise and Set timers.
 
 ![ARISS Clock Set Error Message.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_reduced_size3.png)
 
