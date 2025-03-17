@@ -35,11 +35,23 @@ This is not the only place the times can be checked. See further below.
 
 ![ARISS Clock Greeting.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_greeting_predict_check.png)
 
+
+### Starting Past Set Time
+
+If it is started with config file times that are in the past, the timers will 
+all report `00:00` (including the **Rise** timer) instead of `__:__`. Edit the
+config file to correct the date/times. Remember the date matter too.
+
+![ARISS Clock Less Than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/
+main/Screenshots/ARISS_Clock_start_post_set.png)
+
+
 Clock Operation
 ---------------
 
 The following screenshots are of the **ARISS Clock** running with the default 
 options.
+
 
 ### Before Predicted Rise Time
 
@@ -75,7 +87,7 @@ will change color. The **Elapsed Time** counter stay the same color.
 While the predicted **Set** time is greater than one minute the counter will be
 yellow.
 
-![ARISS Clock MOre than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_pre_set.png)
+![ARISS Clock More than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_pre_set.png)
 
 #### Less Than 1 Minute
 
@@ -92,7 +104,6 @@ predicted rise and set times with a nice ARISS logo. Closing that window will
 not affect the clock.
 
 ![ARISS Clock Show Predicts.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_predicts_check.png)
-
 
 
 Error Messages
