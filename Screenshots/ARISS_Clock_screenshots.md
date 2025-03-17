@@ -24,7 +24,7 @@ valid data. See further below for error messages that could be encountered.
 
 ### Greeting and Predict Check
 
-The first window to pop up shows the predicted **Rise** and *Set** times as 
+The first window to pop up shows the predicted **Rise** and **Set** times as 
 read from the config file. It show the times in UTC (as entered in the file) 
 and calculated local time. This is an opportunity to check these and make sure
 the times are correct and match the satellite tracking software. It not, the
@@ -42,8 +42,7 @@ If it is started with config file times that are in the past, the timers will
 all report `00:00` (including the **Rise** timer) instead of `__:__`. Edit the
 config file to correct the date/times. Remember the date matter too.
 
-![ARISS Clock Less Than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/
-main/Screenshots/ARISS_Clock_start_post_set.png)
+![ARISS Clock Less Than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_start_post_set.png)
 
 
 Clock Operation
