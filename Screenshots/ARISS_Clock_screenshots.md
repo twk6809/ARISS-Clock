@@ -99,7 +99,7 @@ When **Set** time is less than 1 minute the counter turns red.
 When past the predicted **Set** time the counter turns gray and the 
 **Elapsed Time** counter stops.
 
-![ARISS Clock Less Than 1m to Set.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_post_set_time.png)
+![ARISS Clock Post Set.](https://github.com/twk6809/ARISS-Clock/blob/main/Screenshots/ARISS_Clock_post_set.png)
 
 
 ### Check Predicts
