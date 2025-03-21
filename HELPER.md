@@ -1,7 +1,7 @@
 ARISS Clock - Helper
 ====================
 By: Ken McCaughey (N3FZX)  
-On: 2025-03-14   
+On: 2025-03-21   
 Ver 3.0.0   
 
 <!-- In MarkDownd format. -->
@@ -435,7 +435,14 @@ data to take affect.
 If the fonts that this was designed around are not found, a window will pop
 up saying the fonts were not found. It will still run using substituted fonts, 
 but the look may be sloppy and text might not fit properly. If this happens, 
-install the fonts!
+install the fonts! See the **README**.
+
+**Dark Mode** themes are not recommended. This may change the font colors to
+white resulting in poor contrast counter backgrounds.
+
+If using with **MacOS**, the main clock window size maybe taller than designed.
+The result is a large space below the bottom clock/timer. If this occurs, just
+use a mouse to grab the bottom of the window and resize to suit.
 
 There is some error checking for the configuration file. The messages may not
 seem all that useful. Here are some things to look for:
